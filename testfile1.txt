@@ -1,3 +1,4 @@
 # First file to commit to git repository
+This is my first test file1 to git repository.
 
-This is my first test file1 to git repository
+Testing direct commit with -a option
